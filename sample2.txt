@@ -1,0 +1,6 @@
+This is the text from sample file 1. This file contains
+all the numbers.
+1 - 2 - 3
+4 - 5 - 6
+7 - 8 - 9
+    0

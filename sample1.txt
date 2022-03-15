@@ -1,0 +1,7 @@
+This is the text from sample file 1. This file contains
+all the letters.
+A , B , C , D , E , F
+G , H , I , J , K , L
+M , N , O , P , Q , R
+T , Y , U , V , W , X
+        Y , Z
